@@ -30,7 +30,8 @@ Chrome browser
 
 ## Gif walkthrough
 
-#### gif did not work in this section as the file was too large regardles of how small i tried to edit the GIF.
+![](https://github.com/krishnaaddala/HW-Giphyassignment2/blob/master/assets/images/Nov-04-2019%2022-01-15.gif)
+
 
 ## Code Snippets
 
